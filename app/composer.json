@@ -22,13 +22,15 @@
         "drupal/core-project-message": "^9.2",
         "drupal/core-recommended": "^9.2",
         "drupal/devel": "^4.1",
+        "drupal/fivestar": "1.0.0-alpha2",
+        "drupal/rate": "2.0.0-beta1",
         "drupal/redis": "^1.5",
         "drush/drush": "^10.5"
     },
     "conflict": {
         "drupal/drupal": "*"
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "alpha",
     "prefer-stable": true,
     "config": {
         "sort-packages": true
