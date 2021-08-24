@@ -1,2 +1,4 @@
 .idea/
 mutagen.yml.lock
+data/*
+!data/.gitkeep
